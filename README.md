@@ -1,4 +1,4 @@
-# FasterBadges
+# DirectAttachments
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that Injects Configurable Items/Slots onto your avatar.<br>
 Requires ResoniteModSettings<br>
